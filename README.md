@@ -21,9 +21,9 @@ Backend: Python (Pandas, Matplotlib, Seaborn)
 Text Processing: Regular Expressions, WordCloud, Emoji Analysis
 Libraries: urlextract, wordcloud, emoji, seaborn
 
-🧾 How It Works
+🧾 **How It Works**
 1. Export Chat from WhatsApp
-   Go to your WhatsApp chat → Tap on the three dots → More → Export Chat → Without Media
+   Go to your WhatsApp chat → Tap on the three dots → More → Export Chat → Without Media \n
    Save the .txt file
    
 2. Upload the File
